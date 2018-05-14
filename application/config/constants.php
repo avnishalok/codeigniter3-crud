@@ -93,8 +93,7 @@ defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest auto
  * source: https://stackoverflow.com/questions/13823530/codeigniter-base-url-inside-constants-file
 */
 //define base_url
-define('BASE_URL', "http://localhost/cheque-panel-codeIgniter-3.1.4/");
-//define('BASE_URL', "http://bcogent.com/check-panel/");
+define('BASE_URL', "http://localhost/codeigniter3-crud/");
 
 //data directories constant
 define('CHEQUE_MASTER_VIEW', 'cheque-panel-views/');

@@ -19,7 +19,7 @@
 Options +FollowSymLinks
 RewriteEngine on
 #RewriteBase /check-panel
- RewriteBase /cheque-panel-codeIgniter-3.1.4
+ RewriteBase /codeigniter3-crud
 
 RewriteCond $1 !^(index\.php|(.*)\.swf|forums|resources|images|css|downloads|jquery|js|robots\.txt|favicon\.ico)
 RewriteCond %{REQUEST_FILENAME} !-f
