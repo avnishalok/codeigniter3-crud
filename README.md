@@ -1,2 +1,2 @@
-# codeigniter3-crud. My RND file.
+# codeigniter3-crud.
 Crud operation in codeigniter3.
